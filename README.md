@@ -1,6 +1,6 @@
 # 📮 Buscador de CEP
 
-Aplicação em Java para consultar endereços a partir de um CEP, consumindo a API ViaCEP e salvando os dados em um arquivo JSON.
+Desafio proposto pela **Alura** como parte da trilha *Aprenda a programar em Java com Orientação a Objetos*, com o objetivo de praticar consumo de APIs, manipulação de arquivos e tratamento de exceções em Java.
 
 ## O que o sistema faz
 
