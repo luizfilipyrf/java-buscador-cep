@@ -1,6 +1,6 @@
 #  Buscador de CEP
 
-Desafio proposto pela **Alura** como parte da trilha *Aprenda a programar em Java com Orientação a Objetos*, com o objetivo de praticar consumo de APIs, manipulação de arquivos e tratamento de exceções em Java.
+Este projeto foi desenvolvido como parte do meu aprendizado em Java, com foco em consumo de APIs, manipulação de arquivos e tratamento de exceções em Java.
 
 ## O que o sistema faz
 
